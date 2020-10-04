@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8YwxmsFhHvWkg9zTYtlAqB+cijvJGcD62dJ0U8gB16IgJF3/fhNCixb23/5qkC9O84qdAhlE26rDSbUB/sox1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ergon\\Desktop\\teste\\BuscaCep\\BuscaCep\\BuscaCep.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ergon\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Ergon\\.nuget\\packages\\refit\\5.2.1\\refit.5.2.1.nupkg.sha512",
+    "C:\\Users\\Ergon\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
